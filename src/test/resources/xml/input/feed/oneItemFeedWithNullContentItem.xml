@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title><![CDATA[Auto Esporte]]></title>
+		<link>http://revistaautoesporte.globo.com/</link>
+		<description />
+		<language>pt-BR</language>
+		<copyright>© Todos os direitos reservados.</copyright>
+		<image>
+			<url>http://e.glbimg.com/og/ed/edg2/static_files/rss/img/auto-esporte.png</url>
+			<title><![CDATA[Auto Esporte]]></title>
+			<link>http://revistaautoesporte.globo.com/</link>
+		</image>
+		<item>
+			<title><![CDATA[Volkswagen Arteon aparece às vésperas do Salão de Genebra]]></title>
+			
+			<link>http://revistaautoesporte.globo.com/Noticias/noticia/2017/03/volkswagen-arteon-aparece-vesperas-do-salao-de-genebra.html</link>
+			<dc:creator>Da redação de Auto Esporte</dc:creator>
+			<guid>1139465</guid>
+		</item>
+
+	</channel>
+</rss>
