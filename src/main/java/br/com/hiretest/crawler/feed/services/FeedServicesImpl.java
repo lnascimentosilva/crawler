@@ -43,7 +43,7 @@ public class FeedServicesImpl implements FeedServices{
 
 		// remove tabs, non breaking spaces(&nbsp;) and breaking lines
 		String cleanContent = Normalizer.normalizeHtml(content);
-		
+
 		// initialize feeds
 		List<Feed> feeds = new ArrayList<>();
 
